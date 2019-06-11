@@ -1,0 +1,1 @@
+{"results": [{"name": "Test output B", "errors": 0, "expected": "B", "actual": "B"}, {"name": "Test output A", "status": "fail", "expected": "A", "actual": "B"}]}
