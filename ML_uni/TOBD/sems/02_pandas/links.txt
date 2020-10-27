@@ -1,0 +1,2 @@
+https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb
+https://www.w3resource.com/python-exercises/pandas/missing-values/index.php
